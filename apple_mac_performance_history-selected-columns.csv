@@ -1,0 +1,36 @@
+model_name,model_family,model_id,release_year,release_date,cpu_architecture,processor_name,cpu_cores_total,cpu_p_cores,cpu_e_cores
+iMac G3 233 Bondi Blue,iMac,"PowerMac2,1",1998,1998-08-15,PowerPC,PowerPC 750 (G3),1,1,0
+PowerBook G3 400 Lombard,PowerBook,"PowerBook1,1",1999,1999-05-10,PowerPC,PowerPC 750 (G3),1,1,0
+PowerMac G4 MDD Dual 1.25GHz,PowerMac,"PowerMac3,6",2002,2002-08-13,PowerPC,Dual PowerPC 7455 (G4),2,2,0
+iMac G4 800 Sunflower,iMac,"PowerMac4,2",2002,2002-01-07,PowerPC,PowerPC 7450 (G4),1,1,0
+PowerMac G5 Dual 2.0GHz,PowerMac,"PowerMac7,2",2003,2003-06-23,PowerPC,Dual PowerPC 970 (G5),2,2,0
+Mac mini G4 1.25,Mac mini,"PowerMac10,1",2005,2005-01-11,PowerPC,PowerPC 7447A (G4),1,1,0
+PowerMac G5 Quad 2.5,PowerMac,"PowerMac11,2",2005,2005-10-19,PowerPC,Dual Dual-Core PowerPC 970MP,4,4,0
+Mac Pro Original 8-Core,Mac Pro,"MacPro1,1",2006,2006-08-07,Intel x86,Dual Intel Xeon 5150 (Woodcrest),4,4,0
+MacBook Pro 15-inch Core Duo,MacBook Pro,"MacBookPro1,1",2006,2006-01-10,Intel x86,Intel Core Duo T2600,2,2,0
+iMac 20-inch Intel Core Duo,iMac,"iMac4,1",2006,2006-01-10,Intel x86,Intel Core Duo T2500,2,2,0
+MacBook Air Original,MacBook Air,"MacBookAir1,1",2008,2008-01-15,Intel x86,Intel Core 2 Duo P7500,2,2,0
+MacBook Pro 15-inch Unibody,MacBook Pro,"MacBookPro5,1",2008,2008-10-14,Intel x86,Intel Core 2 Duo T9600,2,2,0
+Mac Pro 8-Core Nehalem,Mac Pro,"MacPro4,1",2009,2009-03-03,Intel x86,Dual Intel Xeon X5570,8,8,0
+MacBook Pro 15-inch Retina (2012),MacBook Pro,"MacBookPro10,1",2012,2012-06-11,Intel x86,Intel Core i7-3720QM,4,4,0
+Mac Pro Cylinder 12-Core (2013),Mac Pro,"MacPro6,1",2013,2013-12-19,Intel x86,Intel Xeon E5-2697 v2,12,12,0
+iMac 27-inch Retina 5K (2014),iMac,"iMac15,1",2014,2014-10-16,Intel x86,Intel Core i7-4790K,4,4,0
+MacBook 12-inch Retina (2015),MacBook,"MacBook8,1",2015,2015-03-09,Intel x86,Intel Core M-5Y71,2,2,0
+iMac Pro 18-Core (2017),iMac,"iMacPro1,1",2017,2017-12-14,Intel x86,Intel Xeon W-2195,18,18,0
+Mac Pro 28-Core (2019),Mac Pro,"MacPro7,1",2019,2019-12-10,Intel x86,Intel Xeon W-3275M,28,28,0
+MacBook Pro 16-inch Core i9 (2019),MacBook Pro,"MacBookPro16,1",2019,2019-11-13,Intel x86,Intel Core i9-9980HK,8,8,0
+Mac mini M1 (2020),Mac mini,"Macmini9,1",2020,2020-11-17,Apple Silicon (ARM64),Apple M1,8,4,4
+MacBook Air 13-inch M1 (2020),MacBook Air,"MacBookAir10,1",2020,2020-11-17,Apple Silicon (ARM64),Apple M1,8,4,4
+MacBook Pro 16-inch M1 Max (2021),MacBook Pro,"MacBookPro18,2",2021,2021-10-26,Apple Silicon (ARM64),Apple M1 Max,10,8,2
+Mac Studio M1 Ultra (2022),Mac Studio,"Mac13,2",2022,2022-03-18,Apple Silicon (ARM64),Apple M1 Ultra,20,16,4
+MacBook Air 13-inch M2 (2022),MacBook Air,"Mac14,2",2022,2022-07-15,Apple Silicon (ARM64),Apple M2,8,4,4
+Mac Studio M2 Ultra (2023),Mac Studio,"Mac14,14",2023,2023-06-13,Apple Silicon (ARM64),Apple M2 Ultra,24,16,8
+MacBook Pro 16-inch M2 Max (2023),MacBook Pro,"Mac14,6",2023,2023-01-24,Apple Silicon (ARM64),Apple M2 Max,12,8,4
+MacBook Pro 16-inch M3 Max (2023),MacBook Pro,"Mac15,9",2023,2023-11-07,Apple Silicon (ARM64),Apple M3 Max,16,12,4
+Mac mini M4 Pro (2024),Mac mini,"Mac16,11",2024,2024-11-08,Apple Silicon (ARM64),Apple M4 Pro,14,10,4
+MacBook Air 15-inch M3 (2024),MacBook Air,"Mac15,13",2024,2024-03-08,Apple Silicon (ARM64),Apple M3,8,4,4
+MacBook Pro 14-inch M4 (2024),MacBook Pro,"Mac16,1",2024,2024-11-08,Apple Silicon (ARM64),Apple M4,10,4,6
+MacBook Pro 16-inch M4 Max (2024),MacBook Pro,"Mac16,8",2024,2024-11-08,Apple Silicon (ARM64),Apple M4 Max,16,12,4
+MacBook Pro 14-inch M5 (2025),MacBook Pro,"Mac17,1",2025,2025-10-22,Apple Silicon (ARM64),Apple M5,10,4,6
+MacBook Pro 14-inch M5 Pro (2026),MacBook Pro,"Mac17,6",2026,2026-03-11,Apple Silicon (ARM64),Apple M5 Pro,18,12,6
+MacBook Pro 16-inch M5 Max (2026),MacBook Pro,"Mac17,8",2026,2026-03-11,Apple Silicon (ARM64),Apple M5 Max,18,14,4
